@@ -2,7 +2,7 @@
 
 A modern, interactive blog-style learning platform for mastering Web Development technologies like HTML, JavaScript, and React.
 
-🔗 **Live Demo:** https://your-vercel-url.vercel.app
+🔗 **Live Demo:** https://blog-learning-platform-is87c49c4-srisahithins-projects.vercel.app/
 
 ---
 
