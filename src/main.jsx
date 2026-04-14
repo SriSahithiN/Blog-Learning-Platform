@@ -10,6 +10,5 @@ createRoot(document.getElementById("root")).render(
     <LearningProvider>
       <App />
     </LearningProvider>
-    ,
   </ThemeProvider>,
 );
